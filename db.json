@@ -1,4 +1,14 @@
 {
+    "sprint_survivor_users": [
+    {
+  "id": 1,
+  "username": "Dean",
+  "email": "dean@company.com",
+  "score": 142,
+  "grade": "B",
+  "registeredAt": "2026-04-07T10:00:00.000Z"
+}
+  ],
   "affirmation_users": [
     {
       "id": 1,
